@@ -1,4 +1,20 @@
-body {
-  background-color: #87002F;
-  color: white;
+cuerpo {
+  familia de fuentes :  'Titillium Web' , sans-serif;
+}
+
+. navbar-brand {
+  tamaño de fuente :  20 px ;
+  color :  # 000 ;
+  font-weight : negrita;
+}
+
+# testimonio {
+  fondo :  # f1f1f1 ;
+  relleno :  50 px  0  30 px  0 ;
+  alineación de texto : centro;
+  margen superior :  40 px ;
+}
+
+pie de página {
+  fondo : url (.. / img / smartphones.png);
 }
